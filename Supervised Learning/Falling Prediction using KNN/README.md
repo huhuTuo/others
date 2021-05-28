@@ -5,7 +5,7 @@ First develop each piece of the algorithm, then will tie all of the elements tog
 
 This k-Nearest Neighbors tutorial is broken down into 3 parts:
 
-Step 1: Calculate Euclidean Distance.
+*Step 1: Calculate Euclidean Distance.
 Step 2: Get Nearest Neighbors.
 Step 3: Make Predictions.
 These steps will teach you the fundamentals of implementing and applying the k-Nearest Neighbors algorithm for classification and regression predictive modeling problems.
