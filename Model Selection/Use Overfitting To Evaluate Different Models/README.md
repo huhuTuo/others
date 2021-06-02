@@ -15,6 +15,7 @@ This program is to use RealData Set 1 to determine a1 and b1 based on Model 1.
 The program can be used to fill part of the blank spaces in above table.
 
 Program 2: Non-Linear Regression Model 2
+
 Note:
 This program is to use RealData Set 1 to determine a2 and b2 based on Model 2.
 The program can be used to fill part of the blank spaces in above table.
