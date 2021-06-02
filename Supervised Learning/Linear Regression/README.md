@@ -1,13 +1,16 @@
-# kNN Algorithm
+# Linear regression using the Normal Equation.
 
-### k-Nearest Neighbors (in 3 easy steps)
-First develop each piece of the algorithm, then will tie all of the elements together into a working implementation applied to a real dataset.
+### The Normal Equation
 
-This k-Nearest Neighbors tutorial is broken down into 3 parts:
+To find the value of θ that minimizes the cost function, there is a closed-form solution—in other words, a mathematical equation that gives the result directly. This is called the Normal Equation.
 
-          * Step 1: Calculate Euclidean Distance.
-          * Step 2: Get Nearest Neighbors.
-          * Step 3: Make Predictions.
-These steps will teach you the fundamentals of implementing and applying the k-Nearest Neighbors algorithm for classification and regression predictive modeling problems.
+         Normal Equation
+                  ˆ
+                  θ =(X⊺X)-1 X⊺ y
+         In this equation:
+
+                  θ is the value of θ that minimizes the cost function.
+
+                  y is the vector of target values containing y(1) to y(m).
 
 
