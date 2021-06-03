@@ -1,6 +1,6 @@
 ## Machine-Learning
 
-# Three basic Machine Learning Algorithms
+# Three Basic Machine Learning Algorithms
     * Linear Regrssion
     * k-Nearest Neighbors (k-NN)
     * k-means
