@@ -12,10 +12,12 @@ Note: The values of "x" in "ŷ=a1 + b1 * x" and "ŷ=a2 + b2 * x2" are the same a
 
 
 Program 1: To implement Linear Regression Model 1
+
          This program is to use RealData Set 1 to determine a1 and b1 based on Model 1.
          The program can be used to fill part of the blank spaces in above table.
 
 Program 2: Non-Linear Regression Model 2
+
          This program is to use RealData Set 1 to determine a2 and b2 based on Model 2.
          The program can be used to fill part of the blank spaces in above table.
 
