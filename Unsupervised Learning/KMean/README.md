@@ -1,27 +1,10 @@
-# Overfitting to evaluate Linear Regression Model and Non-linear Regression
+# KMeans Algorithm
 
-### Suppose we collect a set of sample data and distribute the sample data by
+### K-Means Clustering Algorithm
+ 
+ K-Means Clustering is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning or data science. In this topic, we will learn what is    ![Screenshot 2021-06-07 150634](https://user-images.githubusercontent.com/81066837/121093528-03f5c580-c7a2-11eb-8a9b-4b1a4db42f4e.png)
+K-means clustering algorithm, how the algorithm works, along with the Python implementation of k-means clustering.
 
-         Training phase: 50%
-         Validation phase: 25%
-         Test phase: 25%
-         
-Note: The values of "x" in "ŷ=a1 + b1 * x" and "ŷ=a2 + b2 * x2" are the same as the "x" list on the "Real Data Set".
-
-![1](https://user-images.githubusercontent.com/81066837/120603272-af98c180-c400-11eb-99e4-9fc3d64c6370.png)
-
-
-Program 1: To implement Linear Regression Model 1
-
-         This program is to use RealData Set 1 to determine a1 and b1 based on Model 1.
-         The program can be used to fill part of the blank spaces in above table.
-
-Program 2: Non-Linear Regression Model 2
-
-         This program is to use RealData Set 1 to determine a2 and b2 based on Model 2.
-         The program can be used to fill part of the blank spaces in above table.
-
-Program 3: Calculate MSE
 
 
 
