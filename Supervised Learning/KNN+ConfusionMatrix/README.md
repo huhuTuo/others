@@ -1,6 +1,6 @@
 # KNN+Confusion Matrix
 
-##Understanding Confusion matrix and applying it on KNN-Classifier on Iris Data set.
+## Understanding Confusion matrix and applying it on KNN-Classifier on Iris Data set.
 
 Confusion matrix is one  which helps us evaluate our model’s performance.
 
