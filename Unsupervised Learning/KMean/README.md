@@ -23,6 +23,7 @@ Program 2: Non-Linear Regression Model 2
 
 Program 3: Calculate MSE
 
+### Goolge Slides  -  [Click Here](https://docs.google.com/presentation/d/1AHTCcFo-U9RtmfT-_72u_d0ardA2yWy0niLxuSQJgIY/edit?usp=sharing) &#x1F537;
 
 
 
