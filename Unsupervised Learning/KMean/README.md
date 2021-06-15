@@ -1,4 +1,4 @@
-# K Mean Algorithm
+# K-Means Algorithm
 
 ## The k-means clustering algorithm mainly performs two tasks:
 
