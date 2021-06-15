@@ -1,5 +1,4 @@
 # Overfitting to evaluate Linear Regression Model and Non-linear Regression 
-### For More Information  Please go to Goolge Slides Link -  [Click Here](https://docs.google.com/presentation/d/1YcYXMXg8SQbBT12w6R3MLeNMssGOGSk2SY6FlbKQ9TU/edit?usp=sharing) &#x1F537;
 
 ### Suppose we collect a set of sample data and distribute the sample data by
 
@@ -24,6 +23,7 @@ Program 2: Non-Linear Regression Model 2
 
 Program 3: Calculate MSE
 
+### Goolge Slides -  [Click Here](https://docs.google.com/presentation/d/1YcYXMXg8SQbBT12w6R3MLeNMssGOGSk2SY6FlbKQ9TU/edit?usp=sharing) &#x1F537;
 
 
 
