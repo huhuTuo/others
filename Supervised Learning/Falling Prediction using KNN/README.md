@@ -1,5 +1,8 @@
 # kNN Algorithm
 
+### For More Information  Please go to Goolge Slides Link -  [Click Here](https://docs.google.com/presentation/d/1DitorH-ERPAH_HDlwhXghNG-zT0l_tszva81A-uE2b8/edit?usp=sharing) &#x1F537;
+
+
 ### k-Nearest Neighbors (in 3 easy steps)
 First develop each piece of the algorithm, then will tie all of the elements together into a working implementation applied to a real dataset.
 
