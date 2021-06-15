@@ -1,27 +1,13 @@
-# Overfitting to evaluate Linear Regression Model and Non-linear Regression
+# K Mean Algorithm
 
-### Suppose we collect a set of sample data and distribute the sample data by
+## The k-means clustering algorithm mainly performs two tasks:
 
-         Training phase: 50%
-         Validation phase: 25%
-         Test phase: 25%
+ * Determines the best value for K center points or centroids by an iterative process.
+ * Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster.
          
-Note: The values of "x" in "ŷ=a1 + b1 * x" and "ŷ=a2 + b2 * x2" are the same as the "x" list on the "Real Data Set".
-
-![1](https://user-images.githubusercontent.com/81066837/120603272-af98c180-c400-11eb-99e4-9fc3d64c6370.png)
+ ![1](https://user-images.githubusercontent.com/81066837/122135949-5fedc900-cdf6-11eb-84f7-fc32453aeead.png)
 
 
-Program 1: To implement Linear Regression Model 1
-
-         This program is to use RealData Set 1 to determine a1 and b1 based on Model 1.
-         The program can be used to fill part of the blank spaces in above table.
-
-Program 2: Non-Linear Regression Model 2
-
-         This program is to use RealData Set 1 to determine a2 and b2 based on Model 2.
-         The program can be used to fill part of the blank spaces in above table.
-
-Program 3: Calculate MSE
 
 ### Goolge Slides  -  [Click Here](https://docs.google.com/presentation/d/1AHTCcFo-U9RtmfT-_72u_d0ardA2yWy0niLxuSQJgIY/edit?usp=sharing) &#x1F537;
 
