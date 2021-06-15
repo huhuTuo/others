@@ -12,5 +12,7 @@ To find the value of θ that minimizes the cost function, there is a closed-form
                   θ is the value of θ that minimizes the cost function.
 
                   y is the vector of target values containing y(1) to y(m).
+###  Goolge Slides  -  [Click Here](https://docs.google.com/presentation/d/1KXWju6cmLoX_l-dC2bUWbV5m086-uh8nUKRuu6n7vZY/edit?usp=sharing) &#x1F537;
+
 
 
